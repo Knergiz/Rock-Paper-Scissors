@@ -34,8 +34,8 @@ public class RockPaperScissors {
             }
         }while (playerPoints < 2 && comPoints < 2);
 
-        if (playerPoints == 2) System.out.println("Congrats! You won!\nNice job Booba, ily!! <3");
-        else System.out.println("Computer won :(\nSorry booba u owe me sloppy");
+        if (playerPoints == 2) System.out.println("Congrats! You won!");
+        else System.out.println("Computer won :(");
 
     }
 }
